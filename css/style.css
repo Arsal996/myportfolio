@@ -911,7 +911,7 @@ footer p {
     }
 
     .navlist.active {
-        top: 110%;
+        top: 100%;
         margin-left: 0;
     }
 
