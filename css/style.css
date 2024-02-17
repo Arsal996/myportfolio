@@ -963,7 +963,7 @@ footer p {
 
     header.sticky .dark-light {
         margin-right: 2.75rem;
-        margin-top: 0px;
+        margin-top: 2px;
     }
 
     header.sticky #menu-icon {
@@ -990,7 +990,7 @@ footer p {
     }
 
     header.sticky {
-        padding: 12px 0;
+        padding: 10px 0;
     }
 
     .abt-main {
